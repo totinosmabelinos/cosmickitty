@@ -1,7 +1,7 @@
 <div align="center">
   <h1> COSMIKITTY</h1>
   <h3> A puzzle RPG about kingdoms in another galaxy. </h3>
-  <img src="#" alt="#">insert cool art and stuff here
+  <img src="#" alt="insert cool art and stuff here">
   <a href="https://prunedroses.itch.io/cosmikitty"> <p>Download the demo on itch.io!</p></a>
   <p><b>Your Royal Highnesses, the life of our galaxy needs you!</b></p>
   <p>Follow the story of twin sisters Adéláyọ̀ and Adélákin, and save the Andromeda galaxy!</p>
